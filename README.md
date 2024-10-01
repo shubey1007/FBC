@@ -1,2 +1,2 @@
-# FBC
-Fresh Baked Cafe (FBC) is a MERN based online platform representing an Italian cafe that serves a variety of Italian dishes, pizzas, coffees, and more.
+## Hacktoberfest 2024 Participation
+We welcome contributions from developers of all skill levels as part of Hacktoberfest 2024! Feel free to check the `issues` tab and start working on any issues labeled as `hacktoberfest`, `good first issue`, or `help wanted`. Please ensure to follow our guidelines mentioned below:

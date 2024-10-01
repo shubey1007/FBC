@@ -1,0 +1,46 @@
+# Node.js
+/node_modules/
+/server/node_modules/
+/client/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# MacOS
+.DS_Store
+
+# Build output
+client/build/
+client/dist/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Ignore any temporary files created by editors or operating systems
+*.swp
+*~
+*.swo
+*.bak
+*.tmp
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore npm/yarn lock files (optional, depending on your setup)
+# yarn.lock
+# package-lock.json
+
+# Ignore Docker files if you're using containers
+docker-compose.override.yml
+
+# Ignore compiled files (optional)
+*.out
+*.exe
+*.o
